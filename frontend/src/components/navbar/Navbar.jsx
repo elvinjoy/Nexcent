@@ -9,7 +9,7 @@ const Navbar = () => {
           <img
             src={logo}
             alt="Nexcent Logo"
-            className="h-14 w-14 object-contain"
+            className="h-26 w-26 object-contain"
           />
         </a>
 
